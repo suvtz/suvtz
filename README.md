@@ -33,7 +33,7 @@
 
 
 [instagram]: https://www.instagram.com/kammiiks_/
-[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/kam’ron-washington-2003a93a0/)
+[linkedin]:  https://www.linkedin.com/in/kam’ron-washington-2003a93a0/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
   
 <h2>👨‍💻 Cybersecurity & Networking Projects:</h2>
 
-  - [Configuring A Virtual Network](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Configuring A Virtual Network](https://drive.google.com/file/d/1d69dLMCSbIqIiaOmHCsFnIQIIQ1tTwG5/view?usp=share_link)
     
   - [Windows BASH Shell](https://github.com/joshmadakor1/Algorithms-Practice)
     
@@ -20,9 +20,9 @@
 
 - [Database Design 1](https://www.youtube.com/watch?v=a83ASGn_V_s)
   
-- [Database Design 2](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Database Design 2](https://drive.google.com/file/d/1FEEAS7UCGMAX8GYtg-inRmbrBrtyob6z/view?usp=share_link)
   
-- [Database Backup Recovery Step-By-Step](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Database Backup Recovery Step-By-Step](https://drive.google.com/file/d/1GpPLHatlSpdE6lbwUgKtZAP3DDpA-C_P/view?usp=share_link)
   
 - [SQL Server Walkthrough](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 

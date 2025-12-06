@@ -1,20 +1,20 @@
 <h1>Hi, I'm Kam'ron! 
   
-<h2>👨‍💻 Cybersecurity & Netowrking Projects:</h2>
+<h2>👨‍💻 Cybersecurity & Networking Projects:</h2>
 
-  - [Active Directory Homelab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - 
+  - [Configuring A Virtual Network](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Windows BASH Shell](https://github.com/joshmadakor1/Algorithms-Practice)
+    
 <h2>📺  Certifications:</h2>
   
   - [Comptia+](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Comptia+](https://github.com/joshmadakor1/Algorithms-Practice)
 <h2>📺 Homelabs & Recent Work</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Database Design 1](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Database Design 2](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Database Backup Recovery Analysis](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [SQL Server Walkthrough](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 

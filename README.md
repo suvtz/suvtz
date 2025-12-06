@@ -9,7 +9,7 @@
     
   - [Rasberry Pi 3B+ Configuration](https://www.youtube.com/watch?v=xBlxuf_LSCM)
     
-<h2>🎖️ Certifications 7 Degrees:</h2>
+<h2>🎖️ Certifications & Degrees:</h2>
 
   - [Associate's Degree](https://www.comptia.org/en-us/certifications/linux/)
 

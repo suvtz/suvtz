@@ -18,9 +18,9 @@
       
 <h2>📺 Homelabs & Recent Work</h2>
 
-- [Database Design 1](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Database Standards & Procedures](https://drive.google.com/file/d/1PqE_ID2_bTQ0JTCrIBuU0gYO5ljRVs8C/view?usp=share_link)
   
-- [Database Design 2](https://drive.google.com/file/d/1FEEAS7UCGMAX8GYtg-inRmbrBrtyob6z/view?usp=share_link)
+- [Database Design](https://drive.google.com/file/d/1FEEAS7UCGMAX8GYtg-inRmbrBrtyob6z/view?usp=share_link)
   
 - [Database Backup Recovery Step-By-Step](https://drive.google.com/file/d/1GpPLHatlSpdE6lbwUgKtZAP3DDpA-C_P/view?usp=share_link)
   

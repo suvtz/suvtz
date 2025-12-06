@@ -1,4 +1,6 @@
 <h1>Hi, I'm Kam'ron! 
+
+  I recently worked on projects analyzing network activity, investigating security alerts, and improving incident response processes. These experiences strengthened my interest in cybersecurity operations and showed me the impact of proactive threat detection. I’m now looking to break into a SOC analyst role where I can continue learning, contribute to protecting systems, and build hands-on experience in security monitoring
   
 <h2>👨‍💻 Cybersecurity & Netowrking Projects:</h2>
 

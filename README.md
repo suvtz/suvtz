@@ -1,4 +1,5 @@
 <h1>Hi, I'm Kam'ron W.! 
+
   
 <h2>👨‍💻 Cybersecurity & Networking Projects:</h2>
 
@@ -10,11 +11,11 @@
     
 <h2>🎖️ Certifications:</h2>
   
-  - [Linux+ Certification](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Linux+ Certification](https://www.comptia.org/en-us/certifications/linux/)
     
-  - [Network+ Certification](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Network+ Certification](https://www.comptia.org/en-us/certifications/network/)
     
-  - [Secuirty+ Certification](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Secuirty+ Certification](https://www.comptia.org/en-us/certifications/security/)
       
 <h2>📺 Homelabs & Recent Work:</h2>
 

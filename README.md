@@ -16,7 +16,7 @@
     
   - [Secuirty+ Certification](https://github.com/joshmadakor1/Algorithms-Practice)
       
-<h2>📺 Homelabs & Recent Work</h2>
+<h2>📺 Homelabs & Recent Work:</h2>
 
 - [Database Standards & Procedures](https://drive.google.com/file/d/1PqE_ID2_bTQ0JTCrIBuU0gYO5ljRVs8C/view?usp=share_link)
   

@@ -1,19 +1,29 @@
-<h1>Hi, I'm Kam'ron! 
+<h1>Hi, I'm Kam'ron W.! 
   
 <h2>👨‍💻 Cybersecurity & Networking Projects:</h2>
 
   - [Configuring A Virtual Network](https://github.com/joshmadakor1/Algorithms-Practice)
+    
   - [Windows BASH Shell](https://github.com/joshmadakor1/Algorithms-Practice)
     
-<h2>📺  Certifications:</h2>
+  - [Rasberry Pi 3B+ Configuration](https://github.com/joshmadakor1/Algorithms-Practice)
+    
+<h2>🎖️ Certifications:</h2>
   
-  - [Comptia+](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Comptia+](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Linux+ Certification](https://github.com/joshmadakor1/Algorithms-Practice)
+    
+  - [Network+ Certification](https://github.com/joshmadakor1/Algorithms-Practice)
+    
+  - [Secuirty+ Certification](https://github.com/joshmadakor1/Algorithms-Practice)
+      
 <h2>📺 Homelabs & Recent Work</h2>
 
 - [Database Design 1](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  
 - [Database Design 2](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Database Backup Recovery Analysis](https://www.youtube.com/watch?v=N-L9hklSlNk)
+  
+- [Database Backup Recovery Step-By-Step](https://www.youtube.com/watch?v=N-L9hklSlNk)
+  
 - [SQL Server Walkthrough](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>

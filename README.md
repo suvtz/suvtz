@@ -7,7 +7,7 @@
     
   - [Windows BASH Shell](https://drive.google.com/file/d/1lbeNrROTt86JBd6-acOb3TKM25IaNs20/view?usp=share_link)
     
-  - [Rasberry Pi 3B+ Configuration](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Rasberry Pi 3B+ Configuration](https://www.youtube.com/watch?v=xBlxuf_LSCM)
     
 <h2>🎖️ Certifications:</h2>
   

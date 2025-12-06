@@ -5,9 +5,9 @@
   - [Active Directory Homelab](https://github.com/joshmadakor1/Algorithms-Practice)
   - 
 <h2>📺  Certifications:</h2>
-
+  
   - [Comptia+](https://github.com/joshmadakor1/Algorithms-Practice)
-
+  - [Comptia+](https://github.com/joshmadakor1/Algorithms-Practice)
 <h2>📺 Homelabs & Recent Work</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)

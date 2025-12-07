@@ -27,7 +27,7 @@
   
 - [Database Backup Recovery Step-By-Step](https://drive.google.com/file/d/1GpPLHatlSpdE6lbwUgKtZAP3DDpA-C_P/view?usp=share_link)
   
-- [SQL Server Walkthrough](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [SQL Server Walkthrough](https://www.youtube.com/watch?v=ZrGaCQyevcw)
 
 <h2> 🤳 Connect with me:</h2>
 

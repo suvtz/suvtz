@@ -7,7 +7,7 @@
     
   - [Windows BASH Shell](https://drive.google.com/file/d/1lbeNrROTt86JBd6-acOb3TKM25IaNs20/view?usp=share_link)
     
-  - [Rasberry Pi 3B+ Configuration](https://www.youtube.com/watch?v=xBlxuf_LSCM)
+  - [Personal Virtual Hacklab ](https://drive.google.com/file/d/1t9wqnAAK8_sGBh1gKonmNQfGmrKsQgfX/view?usp=share_link)
     
   - [Binary Date & Time Conversion](https://drive.google.com/file/d/1EvYfgT1iWJ2s6PHZoeXV4lxcytzh6Nc1/view?usp=share_link)
 <h2>🎖️ Certifications & Degrees:</h2>

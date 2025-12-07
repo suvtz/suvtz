@@ -3,7 +3,7 @@
   
 <h2>👨‍💻 Cybersecurity & Networking Projects:</h2>
 
-  - [Configuring A Virtual Network](https://drive.google.com/file/d/1d69dLMCSbIqIiaOmHCsFnIQIIQ1tTwG5/view?usp=share_link)
+  - [Configuring a Virtual Network](https://drive.google.com/file/d/1d69dLMCSbIqIiaOmHCsFnIQIIQ1tTwG5/view?usp=share_link)
     
   - [Windows BASH Shell](https://drive.google.com/file/d/1lbeNrROTt86JBd6-acOb3TKM25IaNs20/view?usp=share_link)
     
@@ -25,9 +25,9 @@
   
 - [Database Design](https://drive.google.com/file/d/1FEEAS7UCGMAX8GYtg-inRmbrBrtyob6z/view?usp=share_link)
   
-- [Database Backup Recovery Step-By-Step](https://drive.google.com/file/d/1GpPLHatlSpdE6lbwUgKtZAP3DDpA-C_P/view?usp=share_link)
+- [Database Backup Recovery Step-by-Step](https://drive.google.com/file/d/1GpPLHatlSpdE6lbwUgKtZAP3DDpA-C_P/view?usp=share_link)
   
-- [SQL Server Walkthrough](https://www.youtube.com/watch?v=ZrGaCQyevcw)
+- [Tableau Data Analysis Project ](https://www.youtube.com/watch?v=ZrGaCQyevcw)
 
 <h2> 🤳 Connect with me:</h2>
 

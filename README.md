@@ -9,6 +9,7 @@
     
   - [Rasberry Pi 3B+ Configuration](https://www.youtube.com/watch?v=xBlxuf_LSCM)
     
+  - [Binary Date & Time Conversion](https://drive.google.com/file/d/1EvYfgT1iWJ2s6PHZoeXV4lxcytzh6Nc1/view?usp=share_link)
 <h2>🎖️ Certifications & Degrees:</h2>
 
   - [Associate's Degree](https://www.comptia.org/en-us/certifications/linux/)
